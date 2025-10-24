@@ -1,0 +1,2 @@
+# libTmcAssetSprite
+.tmctxc parser library
